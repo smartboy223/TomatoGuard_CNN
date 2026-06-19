@@ -1,0 +1,5 @@
+# TomatoGuard - the ONLY Python dependency for the whole project.
+# Install with:    pip install -r requirements.txt
+#
+# TensorFlow brings NumPy and Pillow with it, so we don't list them separately.
+tensorflow

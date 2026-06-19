@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.fgrade_cache/
+.venv/
+venv/
+env/
+server*.log
+.server.pid
+
+# Private local-only material
+report_doc/
+private/
+*_snapshot_*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
